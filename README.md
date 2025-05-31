@@ -2,7 +2,6 @@
 
 ## Name: S.VENGADA KRISHNAN
 ## Reg no: 212223110061
-## Date:
 
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
